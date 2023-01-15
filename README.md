@@ -1,4 +1,4 @@
-# rest-api-c-
+# rest-api-cpp
 impl code rest api using C++
 
 #library
